@@ -1,0 +1,15 @@
+# Core dependencies
+selenium==4.40.0  # Selenium library as Python interpreter
+pytest==9.0.2  # Testing framework for Python
+pytest-html==4.2.0  # Generating HTML reports for test results
+webdriver-manager==4.0.2  #  Automatically manage and download WebDriver
+
+# Additional testing utilities
+pytest-xdist==3.8.0  # Parallel test execution
+
+# Other utilities
+python-dotenv==1.2.1  # Environment variable management
+pillow==12.1.1  # Screenshot handling, image processing capabilities
+
+# Reporting
+allure-pytest==2.15.3  # Advanced reporting (optional)

@@ -1,0 +1,18 @@
+# IDE
+.idea/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Test reports
+allure-results/
+reports/
+
+# OS
+.DS_Store
+Thumbs.db
