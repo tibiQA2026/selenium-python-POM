@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 This project is a production-ready Selenium test automation framework built with Python and pytest.  
-It demonstrates end-to-end UI testing using the Page Object Model (POM) design pattern against the SauceDemo practice site.
+It demonstrates login UI testing using the Page Object Model (POM) design pattern against the SauceDemo practice site.
 
 ## 🛠 Tech Stack
 - Python
